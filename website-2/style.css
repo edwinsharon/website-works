@@ -3,10 +3,9 @@
 }
 .s1{
     border-radius: 50%;
-}
-.author img{
     width: 60px;
 }
+
 .s2{
     color: black;
     
@@ -17,4 +16,23 @@
 }
 .f3{
     margin-top: 30px;
+}
+.f6 a{
+    color: black;
+}
+.f7{
+    border-bottom: 2px solid black;
+    padding: 25px;
+}
+.f8{
+    width: 550px;
+}
+.f9{
+    width: 650px;
+}
+.f10{
+    width: 250px;
+}
+.f11{
+    border-bottom: 2px solid black;
 }
