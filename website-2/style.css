@@ -1,5 +1,10 @@
+
 .container-fluid{
-    background-color:rgb(174, 173, 171);
+    background-color:rgb(238, 238, 244);
+    position: fixed;
+    padding: 5px;
+    
+    
 }
 .s1{
     border-radius: 50%;
@@ -11,7 +16,7 @@
     
 }
 .f1{
-    border: 1px solid black;
+    border: 1px solid gray;
     padding: 20px;
 }
 .f3{
@@ -21,8 +26,9 @@
     color: black;
 }
 .f7{
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid gray;
     padding: 25px;
+    
 }
 .f8{
     width: 550px;
@@ -34,7 +40,7 @@
     width: 250px;
 }
 .f11{
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid gray;
     padding: 7px;
 }
 /* .f12{
@@ -42,7 +48,7 @@
 } */
 img.f13{
     border-radius: 50%;
-    width: 100px;
+    width: 50px;
  
 }
 .f14{
