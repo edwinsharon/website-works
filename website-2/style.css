@@ -73,7 +73,13 @@ a.learn{
     color: white;
 }
 .f20{
-    background-color: black;
+    background-color: rgb(122, 116, 116);
     color: white;
-    padding: 100px;
+    padding: 70px;
+}
+.f21{
+    width: 30px;
+}
+.f22{
+    margin-left: 700px;
 }
