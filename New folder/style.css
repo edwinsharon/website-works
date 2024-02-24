@@ -1,0 +1,80 @@
+.b1{
+    background-color: darksalmon;
+    @font-face {
+        font-family: ;
+        src: url('YoungSeriff-Regular.ttf');
+    }
+}
+.c1{
+   border-radius: 5%;
+   margin-top: 2%;
+}
+.container{
+    background-color: white;
+    width:50%;
+    margin: auto;
+    border-radius: 2%;
+    
+
+}
+.a1{
+    text-align: left;
+    margin-left: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+.p1{
+    margin: 2%;
+    font-size: small;
+}
+.b2{
+    background-color: salmon;
+    border-radius: 2%;
+    margin: 2%;
+}
+.a2{
+    margin-left: 2%;
+    margin-top: 2%;
+    padding: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: maroon;
+    border-radius: 4%;
+}
+.p2{
+    font-weight: bold;
+}
+.l1{
+    padding: 4%; 
+    margin-left: 4%;
+}
+.b3{
+    margin-left: 3%;
+}
+.d1{
+    color: maroon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p3{
+    font-size: small;
+    padding: 1%;
+}
+.k1{
+    margin-left: 75%;
+    margin-top: -4%;
+}
+.k2{
+    margin-left: 10%;
+}
+.g1{
+    padding-bottom:6%;
+}
+
+
+
+@media (min-width:100px) and (max-width:599.02px)
+{
+  .container{
+    width: 100%;
+  }
+}
